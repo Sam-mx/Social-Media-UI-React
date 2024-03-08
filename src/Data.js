@@ -1,8 +1,8 @@
 export const Users = [
     {
       id:1,
-      profilePicture: "assets/person/1.jpeg",
-      username: "Samantha Reynolds",
+      profilePicture: "assets/person/1.jpg",
+      username: "Sam",
     },
     {
       id:2,
@@ -11,37 +11,37 @@ export const Users = [
     },
     {
       id:3,
-      profilePicture: "assets/person/3.jpeg",
+      profilePicture: "assets/person/3.jpg",
       username: "Isaac Rodriguez",
     },
     {
       id:4,
-      profilePicture: "assets/person/4.jpeg",
+      profilePicture: "assets/person/4.jpg",
       username: "Alexander Hayes",
     },
     {
       id:5,
-      profilePicture: "assets/person/5.jpeg",
+      profilePicture: "assets/person/5.jpg",
       username: "Emily Walker",
     },
     {
       id:6,
-      profilePicture: "assets/person/6.jpeg",
+      profilePicture: "assets/person/6.jpg",
       username: "Zoe Mitchell",
     },
     {
       id:7,
-      profilePicture: "assets/person/7.jpeg",
+      profilePicture: "assets/person/7.jpg",
       username: "Travis Bennett",
     },
     {
       id:8,
-      profilePicture: "assets/person/8.jpeg",
+      profilePicture: "assets/person/8.jpg",
       username: "Kristen Thomas",
     },
     {
       id:9,
-      profilePicture: "assets/person/9.jpeg",
+      profilePicture: "assets/person/9.jpg",
       username: "Liam Anderson",
     },
     {
@@ -99,7 +99,7 @@ export const Users = [
     {
       id: 6,
       desc: "The Best Day of My Life <3.",
-      photo: "assets/post/6.jpeg",
+      photo: "assets/post/6.jpg",
       date: "1 day ago",
       userId: 6,
       like: 44,
@@ -108,7 +108,7 @@ export const Users = [
     {
       id: 7,
       desc: "Change the world by being yourself.",
-      photo: "assets/post/7.jpeg",
+      photo: "assets/post/7.jpg",
       date: "2 days ago",
       userId: 7,
       like: 52,
@@ -125,7 +125,7 @@ export const Users = [
     {
       id: 9,
       desc: "Unconditional Love ^^.",
-      photo: "assets/post/9.jpeg",
+      photo: "assets/post/9.jpg",
       date: "5 days ago",
       userId: 9,
       like: 11,
@@ -134,7 +134,7 @@ export const Users = [
     {
       id: 10,
       desc: "I'd just got a real cute puppy.",
-      photo: "assets/post/10.jpeg",
+      photo: "assets/post/10.jpg",
       date: "1 week ago",
       userId: 10,
       like: 104,
